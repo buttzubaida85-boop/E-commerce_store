@@ -1,0 +1,6 @@
+{
+  "name": "NOVA MART",
+  "description": "Premium modern e-commerce platform featuring curated products, full shopping experience, account management, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
